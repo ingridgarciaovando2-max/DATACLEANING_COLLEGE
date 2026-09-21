@@ -12,5 +12,8 @@
 
 <h2>pasos a seguir</h2>
 
-1.- pip install openpyml
+1.- Install library
+```bash
+   pip install openpyml
+```
 2.- Ejecutar el archivo normalizacion_copia 
